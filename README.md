@@ -38,6 +38,6 @@ Asigură-te că ai o conexiune la internet activă.
 Modifică endpoint-ul API-ului din fișierul JavaScript (script.js) pentru a prelua imagini din alte surse.
 
 ## Bibliografie:
-https://en.wikipedia.org/wiki/Unsharp_masking
-JavaScript Mastery : canal de youtube
-cursul TW
+- https://en.wikipedia.org/wiki/Unsharp_masking
+- JavaScript Mastery : canal de youtube
+- curs TW Daniela Hossu UPB ACS
